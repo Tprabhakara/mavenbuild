@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cuty</groupId>
   <artifactId>cuty</artifactId>
-  <packaging>maven-war-plugin</packaging>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>cuty Maven Webapp</name>
   <url>http://maven.apache.org</url>
